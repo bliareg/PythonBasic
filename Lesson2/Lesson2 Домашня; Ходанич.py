@@ -1,4 +1,5 @@
-import math
++ файно
+# import math
 
 # Завдання 1
 
